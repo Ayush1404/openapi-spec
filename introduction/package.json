@@ -16,5 +16,8 @@
     "express": "^4.21.1",
     "swagger-ui-express": "^5.0.1",
     "typescript": "^5.7.2"
+  },
+  "devDependencies": {
+    "openapi-typescript-codegen": "^0.29.0"
   }
 }
